@@ -16,6 +16,9 @@ class Student1
       System.out.println("Enter Float ");
       b = obj.nextFloat();
       System.out.println("Float "+b);
+      System.out.println("Float "+b);
+      System.out.println("Float "+b);
+      System.out.println("Float "+b);
 
   }
 }
